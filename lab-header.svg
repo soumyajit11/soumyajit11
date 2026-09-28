@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Embedded systems and edge AI laboratory</title>
+  <desc id="desc">A dark circuit board background with a central microcontroller and connected signal nodes.</desc>
+  <rect width="1200" height="300" rx="18" fill="#0b1220"/>
+  <g fill="none" stroke="#163344" stroke-width="2">
+    <path d="M0 58h150l32 32h145m873 0h-150l-32 32h-145M0 230h194l42-42h150m814 0h-194l-42 42h-150"/>
+    <path d="M80 0v92l38 38v76M1120 0v72l-40 40v70M360 0v36l44 44M840 300v-45l-42-42"/>
+    <circle cx="150" cy="58" r="4" fill="#41d6c3"/><circle cx="1050" cy="90" r="4" fill="#41d6c3"/>
+    <circle cx="194" cy="230" r="4" fill="#80e0a7"/><circle cx="1006" cy="188" r="4" fill="#80e0a7"/>
+  </g>
+  <g stroke="#41d6c3" fill="#0b1220" stroke-width="2">
+    <rect x="485" y="55" width="230" height="190" rx="12"/>
+    <path d="M465 78h20m-20 28h20m-20 28h20m-20 28h20m-20 28h20m-20 28h20m250-140h20m-20 28h20m-20 28h20m-20 28h20m-20 28h20m-20 28h20M520 35v20m36-20v20m36-20v20m36-20v20m36-20v20m36-20v20M520 245v20m36-20v20m36-20v20m36-20v20m36-20v20m36-20v20"/>
+  </g>
+  <text x="600" y="125" text-anchor="middle" fill="#e6f4f1" font-family="monospace" font-size="27" font-weight="700">EDGE / LAB</text>
+  <text x="600" y="163" text-anchor="middle" fill="#80e0a7" font-family="monospace" font-size="16">SIGNAL → FIRMWARE → INFERENCE</text>
+  <text x="600" y="199" text-anchor="middle" fill="#8ba3b0" font-family="monospace" font-size="13">BUILDING TOWARD RESOURCE-CONSTRAINED INTELLIGENCE</text>
+</svg>
