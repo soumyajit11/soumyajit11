@@ -20,9 +20,7 @@
 
 ## About
 
-I’m an Electrical Engineering graduate from **Heritage Institute of Technology, Kolkata**, currently working as a **Sales Engineer at Marathon Electric Motors India Ltd.** My background in electrical engineering and customer-facing industrial work informs my transition toward embedded systems and edge intelligence.
-
-I’m building depth in **C/C++, microcontrollers, real-time systems, embedded Linux, signal processing, computer vision, and neural networks for resource-constrained devices**. I have programming experience across C, C++, Python, Java, React, and Django, and have worked with machine-learning frameworks. I’m especially interested in the path from sensor data to reliable on-device inference.
+I’m building depth in **C/C++, microcontrollers, real-time systems, embedded Linux, signal processing, computer vision, and neural networks for resource-constrained devices**. I’m especially interested in the path from sensor data to reliable on-device inference.
 
 ## Embedded systems stack
 
@@ -105,11 +103,3 @@ These are **planned learning builds**, not completed projects. Publish each as a
 
 <p align="center"><sub>Build carefully. Measure honestly. Ship what you can explain.</sub></p>
 
-<!--
-Setup
-1. Create or open the public repository named exactly `soumyajit11` under the `soumyajit11` account.
-2. Put this file at the repository root as `README.md` and add `lab-header.svg` alongside it.
-3. Replace the bracketed contact and project-detail placeholders with verified information, or remove those rows.
-4. Keep TrueSight under Featured only if it is still representative; add hardware projects after they are implemented and measured.
-5. Check the profile on mobile and confirm the SVG and remote stats images load. The SVG is a local static asset; no JavaScript or custom CSS is used.
--->
